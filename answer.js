@@ -1,10 +1,10 @@
 //Question-01
 
-// To compare two JSON objects for equality without considering the order of properties, you can follow these steps:
-// * 		Convert both JSON objects to strings.
-// * 		Sort the properties of both strings.
-// * 		Compare the sorted strings for equality.
-// Here's a function that implements this approach:
+// To compare two JSON objects for equality without considering the order of properties, these are the following steps:
+// * 		Converting both JSON objects to strings.
+// * 		Sorting the properties of both strings.
+// * 		Comparing the sorted strings for equality.
+// Following is the function that implements this approach:
 
 // function compareJSON(obj1, obj2) {
 //     // Converting JSON objects to strings
